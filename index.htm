@@ -363,5 +363,27 @@ var x = setInterval(function() {
   gtag('config', 'G-CKRM5GSRMM');
 </script>
 <script defer="" src="beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"e22cce0a2c33479bbaaf600073592fc5","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-</div></body>
+</div>
+
+<!-- Adsterra banner (added) -->
+<div id="adsterra-banner" style="position:fixed;left:0;bottom:0;width:100%;background:rgba(255,255,255,0.95);border-top:1px solid #ddd;z-index:9999;text-align:center;padding:8px 0;font-family:inherit;">
+  <a href="https://www.effectivegatecpm.com/fkzheg41?key=3c314a2269f8574a9d58ba530f91f8d8" target="_blank" rel="noopener noreferrer" style="color:#000;font-weight:700;text-decoration:none;padding:6px 12px;border-radius:4px;background:#ffd700;">
+    Sponsored — Click here
+  </a>
+  <button id="adsterra-close" aria-label="Close ad" style="margin-left:12px;padding:4px 8px;border:0;background:#eee;cursor:pointer;border-radius:4px;">Close</button>
+</div>
+<script>
+  (function(){
+    var btn = document.getElementById('adsterra-close');
+    if(btn){
+      btn.addEventListener('click', function(){
+        var el = document.getElementById('adsterra-banner');
+        if(el) el.style.display = 'none';
+      }, false);
+    }
+  })();
+</script>
+<!-- End Adsterra banner -->
+
+</body>
 </html>
