@@ -1,0 +1,100 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\surprise-msg.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css
+File Name: C:\Downloaded Web Sites\surprise-msg.com\ajax\libs\animate.css\3.5.2\animate.min.css
+Content Type: text/css
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Downloaded Web Sites\surprise-msg.com\beacon.min.js\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
+Uri: https://surprise-msg.com/
+File Name: C:\Downloaded Web Sites\surprise-msg.com\index.htm
+Content Type: text/html
+
+Uri: https://surprise-msg.com/img/arrow.gif
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\arrow.gif
+Content Type: image/gif
+
+Uri: https://surprise-msg.com/img/english.webp
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\english.webp
+Content Type: image/webp
+
+Uri: https://surprise-msg.com/img/gate1.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\gate1.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/gate2.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\gate2.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/jingle-bell.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\jingle-bell.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/Jingle-Bells.mp3
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\Jingle-Bells.mp3
+Content Type: audio/mpeg
+
+Uri: https://surprise-msg.com/img/mt1.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\mt1.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/mt2.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\mt2.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/mt3.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\mt3.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/mt4.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\mt4.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/mt5.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\mt5.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/mt6.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\mt6.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/mt7.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\mt7.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/mt8.png
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\mt8.png
+Content Type: image/png
+
+Uri: https://surprise-msg.com/img/sname.gif
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\sname.gif
+Content Type: image/gif
+
+Uri: https://surprise-msg.com/img/wish-in-advance.webp
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\wish-in-advance.webp
+Content Type: image/webp
+
+Uri: https://surprise-msg.com/img/wishkn.webp
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\wishkn.webp
+Content Type: image/webp
+
+Uri: https://surprise-msg.com/img/Xmas-under3-min.webp
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\Xmas-under3-min.webp
+Content Type: image/webp
+
+Uri: https://surprise-msg.com/img/Xmas-under4-min.webp
+File Name: C:\Downloaded Web Sites\surprise-msg.com\img\Xmas-under4-min.webp
+Content Type: image/webp
+
+Uri: https://surprise-msg.com/slide.js
+File Name: C:\Downloaded Web Sites\surprise-msg.com\slide.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-CKRM5GSRMM
+File Name: C:\Downloaded Web Sites\surprise-msg.com\gtag\js
+Content Type: application/javascript
+
